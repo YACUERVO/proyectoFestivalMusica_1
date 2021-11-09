@@ -1,0 +1,5 @@
+//Archivo principal para importar archivos secundarios css
+//utilizar use para llamar los archivos secundarios de css
+@use 'base';
+@use 'contenido';
+@use 'layout';

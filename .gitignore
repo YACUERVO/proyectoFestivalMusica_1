@@ -1,0 +1,7 @@
+#Carpeta
+/node_modules
+
+#Archivos
+package-lock.json
+package.json
+gulpfile.js
